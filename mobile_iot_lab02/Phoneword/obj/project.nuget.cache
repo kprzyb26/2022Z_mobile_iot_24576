@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rz+hcEWm1mkiRo09WIu0/INC+yx2DxG8tgW+Og/qC//iAin5WbtIZRKkc5eJLUiad7gwJv8/G0FfWFWAWhVMGA==",
+  "dgSpecHash": "eu3/Blvzb1yCUDsE3F7DdzsiNQ2PdIJdOuPangiOWa378qpbNLkvjNJ3/ZPtGxK5hzhheZ3nkEh93coAFHy0hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Krzox\\source\\repos\\2022Z_mobile_iot_24576\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "projectFilePath": "C:\\Users\\Krzox\\source\\repos\\2022Z_mobile_iot_24576\\mobile_iot_lab02\\Phoneword\\Phoneword.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Krzox\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Krzox\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
